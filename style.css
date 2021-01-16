@@ -1,0 +1,7 @@
+body {
+  background: teal;
+}
+
+body.wrong {
+  background: orange;
+}
