@@ -3,5 +3,9 @@ body {
 }
 
 body.wrong {
-  background: orange;
+  background: #c00000;
+}
+
+a {
+  color: springgreen;
 }
