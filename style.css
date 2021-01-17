@@ -1,9 +1,17 @@
-body {
+body.question {
   background: teal;
 }
 
 body.wrong {
   background: #c00000;
+}
+
+body.home {
+  background: mediumblue;
+}
+
+body.done {
+  background: sienna;
 }
 
 a {
